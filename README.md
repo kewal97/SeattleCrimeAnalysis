@@ -46,11 +46,5 @@ Seattle Census Dataset: https://data.seattle.gov/dataset/2020-Census-Blocks-Seat
 ## Authors
 [(Back to top)](#table-of-contents)
 
-- [@Akanksha Sharma](https://github.com/akankshasharmadid)
-    [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-12831bb1)
-    [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/akanksha185/)
-
-- [@Kewal Tadas ](https://github.com/kewal97)
+- [@Kewal Tadas ]
     [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kewaltadas/)
-- [@Taylor ](https://github.com/tuananhnguyen527)
-    [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylor527/)
